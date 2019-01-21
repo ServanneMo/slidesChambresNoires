@@ -50,6 +50,18 @@ source image : John Cyr, *Developer trays - Linda Connor (2011)*
 
 <!-- .element: class="source" -->
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/montageRevelation.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/Secundo_Pia_Turinske_platno_1898.jpg" data-background-size="contain" -->
+
+source image : Secondo Pia, photographie du Suaire de Turin, 28 mai 1898, 9h30.
+
+<!-- .element: class="source" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/BarbaraMensch.jpg" data-background-size="contain" -->
@@ -80,16 +92,50 @@ source image : John Cyr, *Developer trays - Eddie Adams (2010)*
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/num-an.jpg" -->
+<!-- .slide: data-background-image="img/the-lazarus-project-Featured-Image.jpg" data-background-size="contain" -->
 
->"God will take care of the dead. We need to take care of the living".
+source image : Aleksandar Hemon, *The Lazarus Project*, 2008.
+
+<!-- .element: class="source" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/num-an.jpg" -->
+<!-- .slide: data-background-image="img/lazzarus2p.53.png" data-background-size="contain" -->
+
+
+source image : Aleksandar Hemon, *The Lazarus Project*, 2008, p. 53.
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/Lazarusdead.jpg" data-background-size="contain" -->
+
+
+source image : Aleksandar Hemon, *The Lazarus Project*, 2008.
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/siteHemonglobalvue.png" -->
+<!-- .slide: class="hover"-->
+
+><font color="red">"**God will take care of the dead. We need to take care of the living**".</font>
+><br>Aleksandar Hemon, *The Lazarus Project*.
+
+<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+
+source image : Aleksandar Hemon, *The Lazarus Project*, capture d'écran site web.
+
+<!-- .element: class="source" -->
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/umbrico.png" -->
+<!-- .slide: data-background-image="img/UdeMretouche.png" -->
 
 ## II. Ça n'a pas été (mais ça aurait pu) : <br>de la remédiation à la rétro-médiation
 
@@ -98,30 +144,84 @@ source image : Penelope Umbrico, _Sunsets from Flickr_.
 <!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/6_definition05.jpg" -->
+<!-- .slide: data-background-image="img/UdeM.jpg" data-background-size="contain"-->
 
 
-source image : Virginie Oth, _Petites définitions_.
+source image : Site institutionnel de l'UdeM.
 
 <!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/dsl-n-2-1325.jpg" -->
+<!-- .slide: data-background-image="img/UdeM1.png" data-background-size="contain"-->
+
+source image : PixlR-omatic
+
+<!-- .element: class="source" -->
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/UdeM2.png" data-background-size="contain"-->
+
+source image : PixlR-omatic
+
+<!-- .element: class="source" -->
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/UdeM3.png" data-background-size="contain"-->
+
+source image : PixlR-omatic
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couvertureRahimi.jpeg" data-background-size="contain" -->
+
+source image : Atiq Rahimi, *Le retour imaginaire*, POL, 2005.
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Identite_du_regard.jpeg" data-background-size="contain"-->
+
+source image : Atiq Rahimi, *Le retour imaginaire*
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/EnfantSoldat.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
 
 >Devant l’appareil, il faut rester immobile, retenir son souffle. La mort en exercice. (Rahimi, 2005 p. 25)
 
-source image : Éric Rondepierre, _DSL_.
+source image : Atiq Rahimi, *Le retour imaginaire*
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/EnfantSoldat.jpg" -->
+
+source image : Atiq Rahimi, *Le retour imaginaire*
 
 <!-- .element: class="source" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/Gearth.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/semiopolis.jpg" data-background-size="contain" -->
 
 ## III. Voir et savoir à l'ère numérique : la condition anamorphique du réel
 
+source image : Joan Fontcuberta, *Sémiopolis*, l'Aleph, 1999.
+
+<!-- .element: class="source" -->
+
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/MuybridgeHorses.jpg" -->
+<!-- .slide: data-background-image="img/semiopolis.jpg" data-background-size="contain"-->
+
+source image : Joan Fontcuberta, *Sémiopolis*, l'Aleph, 1999.
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/semiopolis.jpg" -->
 <!-- .slide: class="hover"-->
 
 >>Je vis l’Aleph, sous tous ses angles, je vis l’Aleph et sur l’Aleph la terre, je vis mon visage et mes viscères, je vis ton visage, j’eus le vertige et je pleurai, car mes yeux avaient vu cet objet secret et conjectural, dont les hommes usurpent le nom, mais qu’aucun homme n’a regardé : l’inconcevable univers.
@@ -131,69 +231,60 @@ Ici commence mon désespoir d’écrivain.
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
+source image : Joan Fontcuberta, *Sémiopolis*, l'Aleph, 1999.
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/holbein.jpeg" data-background-size="contain"-->
+
+source image : Holbein, *Les ambassadeurs*, 1533.
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/daliRemorse.jpg"data-background-size="contain" -->
+
+source image : Dali, *Remorse, or Sphinx Embedded in the Sand*, 1931.
+
+<!-- .element: class="source" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/Etant_Donnee.mov" -->
+
+source image : Cécile Portier, *Étant données*, 2014.
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Duchamp.jpg" -->
+
+source image : Duchamp, *Étant donnés*, 1946-1966.
+
+<!-- .element: class="source" -->
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/MuybridgeHorses.jpg" -->
 <!-- .slide: class="hover"-->
 
 >Nous sommes aujourd’hui très précisément dans cette situation : les données nous font la promesse de pouvoir tout voir, mais on oublierait assez facilement qu’il existe un point aveugle, que tout n’est pas si évident dans cette visibilité triomphante, et que peut-être il est nécessaire de venir éclairer le plein jour d’une autre lumière, poétique, politique, pour briser l’évidence du « tout est donné ».
-<br>Cécile Portier, Étant donnée
+<br>Cécile Portier, « Étant donnée : une fable poétique sur le régime de notre identité numérique », 2016.
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/postcardfromGE.jpg" -->
+
+## Conclusion. <br> Une herméneutique de la révélation
+
 
 source image : Clément Valla, _Postcards from Google Earth_.
 
 <!-- .element: class="source" -->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/Ecran_Garat_2011.png" -->
-<!-- .slide: class="hover"-->
-
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/matrix.jpg" -->
-<!-- .slide: class="hover"-->
-
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/vionnet.jpg" -->
-
-
-source image : Corinne Vionnet, _Photo Opportunities_.
-
-<!-- .element: class="source" -->
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/8_loeil2320.jpg" -->
-<!-- .slide: class="hover"-->
-
-
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/8_loeil2320.jpg" -->
-<!-- .slide: class="hover"-->
-
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-<!-- .slide: data-background-image="img/photolit.png" data-background-size="contain"-->
-
-## Conclusion. <br> Une herméneutique de la révélation
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -204,8 +295,9 @@ source image : Corinne Vionnet, _Photo Opportunities_.
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/Identite_du_regard.jpeg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
 
->>Je ne sais rien des révélations, j’y collabore, j’y travaille dans l’obscurité de l’écriture. Le pouvoir argentique des mots décide dans ce travail au noir qui arrête les formes, les leste de langage, trace des lignes de partage, lignes de litige latentes. Avant d’apprendre que cette image de vigne appartenait au côté de l’envers, celui des mots, je reste longtemps aveugle dans la chambre.
+>Je ne sais rien des révélations, j’y collabore, j’y travaille dans l’obscurité de l’écriture. Le pouvoir argentique des mots décide dans ce travail au noir qui arrête les formes, les leste de langage, trace des lignes de partage, lignes de litige latentes. Avant d’apprendre que cette image de vigne appartenait au côté de l’envers, celui des mots, je reste longtemps aveugle dans la chambre.
 
 source image : Atiq Rahimi, _Le Retour imaginaire_.
 
