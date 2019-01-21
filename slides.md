@@ -268,13 +268,24 @@ source image : Duchamp, *Étant donnés*, 1946-1966.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/MuybridgeHorses.jpg" -->
+<!-- .slide: data-background-image="img/EtantDonees2.png" -->
 <!-- .slide: class="hover"-->
 
 >Nous sommes aujourd’hui très précisément dans cette situation : les données nous font la promesse de pouvoir tout voir, mais on oublierait assez facilement qu’il existe un point aveugle, que tout n’est pas si évident dans cette visibilité triomphante, et que peut-être il est nécessaire de venir éclairer le plein jour d’une autre lumière, poétique, politique, pour briser l’évidence du « tout est donné ».
 <br>Cécile Portier, « Étant donnée : une fable poétique sur le régime de notre identité numérique », 2016.
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+source image : Cécile Portier, *Étant données*, 2014.
+
+<!-- .element: class="source" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/etantDonneMontage.png" -->
+
+source image : Cécile Portier, *Étant données*, 2014.
+
+<!-- .element: class="source" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/postcardfromGE.jpg" -->
@@ -288,23 +299,31 @@ source image : Clément Valla, _Postcards from Google Earth_.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/Identite_du_regard.jpeg" data-background-size="contain"-->
-
->La philosophie de la photographie a pour tâche de réfléchir à cette possibilité de la liberté - et par là-même de l'interprétation - dans un monde dominé par les appareils.<br>Vilem Flusser, *Philosophie de la photographie*
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-<!-- .slide: data-background-image="img/Identite_du_regard.jpeg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/postcardfromGE.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->Je ne sais rien des révélations, j’y collabore, j’y travaille dans l’obscurité de l’écriture. Le pouvoir argentique des mots décide dans ce travail au noir qui arrête les formes, les leste de langage, trace des lignes de partage, lignes de litige latentes. Avant d’apprendre que cette image de vigne appartenait au côté de l’envers, celui des mots, je reste longtemps aveugle dans la chambre.
 
-source image : Atiq Rahimi, _Le Retour imaginaire_.
+>**La philosophie de la photographie a pour tâche de réfléchir à cette possibilité de la liberté - et par là-même de l'interprétation - dans un monde dominé par les appareils.**
+><br>Vilem Flusser, *Philosophie de la photographie*
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
+source image : Clément Valla, *Postcards from Google Earth*.
 
 <!-- .element: class="source" -->
 
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/images.jpeg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/8_loeil2320.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
 
-## Merci !
+>Je ne sais rien des révélations, j’y collabore, j’y travaille dans l’obscurité de l’écriture. Le pouvoir argentique des mots décide dans ce travail au noir qui arrête les formes, les leste de langage, trace des lignes de partage, lignes de litige latentes. Avant d’apprendre que cette image de vigne appartenait au côté de l’envers, celui des mots, je reste longtemps aveugle dans la chambre.
+><br>Anne-Marie Garat, *Chambre Noire*
+
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/8_loeil2320.jpg" data-background-size="contain"-->
