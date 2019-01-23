@@ -176,7 +176,7 @@ source image : PixlR-omatic
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couvertureRahimi.jpeg" data-background-size="contain" -->
 
-source image : Atiq Rahimi, *Le retour imaginaire*, POL, 2005.
+source image : Atiq Rahimi, <br>*Le retour imaginaire*, POL, 2005.
 
 <!-- .element: class="source" -->
 
@@ -184,7 +184,7 @@ source image : Atiq Rahimi, *Le retour imaginaire*, POL, 2005.
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Identite_du_regard.jpeg" data-background-size="contain"-->
 
-source image : Atiq Rahimi, *Le retour imaginaire*
+source image : Atiq Rahimi, <br>*Le retour imaginaire*
 
 <!-- .element: class="source" -->
 
@@ -194,7 +194,7 @@ source image : Atiq Rahimi, *Le retour imaginaire*
 
 >Devant l’appareil, il faut rester immobile, retenir son souffle. La mort en exercice. (Rahimi, 2005 p. 25)
 
-source image : Atiq Rahimi, *Le retour imaginaire*
+source image : Atiq Rahimi, <br>*Le retour imaginaire*
 
 <!-- .element: class="source" -->
 
@@ -206,7 +206,7 @@ source image : Atiq Rahimi, *Le retour imaginaire*
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/afhanBox.jpg" -->
 
-source image : Lukas Birk et Sean Foley, *Box camera photographs from Hekmatyullah's collection*
+source image : Lukas Birk et Sean Foley, <br>*Box camera photographs from Hekmatyullah's collection*
 
 <!-- .element: class="source" -->
 
@@ -224,9 +224,7 @@ source image : Joan Fontcuberta, *Sémiopolis*, l'Aleph, 1999.
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/semiopolis.jpg" data-background-size="contain"-->
 
-source image : Joan Fontcuberta, *Sémiopolis*, l'Aleph, 1999.
 
-<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/semiopolis.jpg" data-background-size="contain"-->
@@ -284,8 +282,12 @@ source image : Cécile Portier, *Étant donnée*, 2014.
 
 <!-- .element: class="source" -->
 
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-video="img/Etant_Donnee.mov" -->
+<!-- .slide: data-background-video="img/Etant_Donnee1.mp4" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/Etant_Donnee2.mp4" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
