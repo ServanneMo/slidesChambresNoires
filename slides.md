@@ -52,6 +52,11 @@ source image : John Cyr, *Developer trays - Linda Connor (2011)*
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+<!-- .slide: data-background-image="img/01-couple-with-female-ghost_1.jpg" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 <!-- .slide: data-background-image="img/montageRevelation.png" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -137,11 +142,9 @@ source image : Aleksandar Hemon, *The Lazarus Project*, capture d'écran site we
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/UdeMretouche.png" -->
 
-## II. Ça n'a pas été (mais ça aurait pu) : <br>de la remédiation à la rétro-médiation
 
-source image : Penelope Umbrico, _Sunsets from Flickr_.
+## II. Ça n'a pas été <br>(mais ça aurait pu) : <br>de la remédiation à la rétro-médiation
 
-<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/UdeM.jpg" data-background-size="contain"-->
@@ -198,7 +201,12 @@ source image : Atiq Rahimi, *Le retour imaginaire*
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/EnfantSoldat.jpg" -->
 
-source image : Atiq Rahimi, *Le retour imaginaire*
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/afhanBox.jpg" -->
+
+source image : Lukas Birk et Sean Foley, *Box camera photographs from Hekmatyullah's collection*
 
 <!-- .element: class="source" -->
 
@@ -221,19 +229,37 @@ source image : Joan Fontcuberta, *Sémiopolis*, l'Aleph, 1999.
 <!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/semiopolis.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+>...monsieur, comme toujours, est à la cave, en train de révéler des photographies...
+><br>Borges, « L’Aleph », trad. Caillois & Durand, 1967, p. 124.
+
+<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/semiopolis.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+>[L'Aleph], ce point de l’espace qui contient tous les points […] le lieu où se trouvent, sans se confondre, tous les lieux de l’univers, vus de tous les angles.
+
+><br>Borges, « L’Aleph », trad. Caillois & Durand, 1967, p. 122.
+
+<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/semiopolis.jpg" -->
 <!-- .slide: class="hover"-->
 
 >>Je vis l’Aleph, sous tous ses angles, je vis l’Aleph et sur l’Aleph la terre, je vis mon visage et mes viscères, je vis ton visage, j’eus le vertige et je pleurai, car mes yeux avaient vu cet objet secret et conjectural, dont les hommes usurpent le nom, mais qu’aucun homme n’a regardé : l’inconcevable univers.
 [...]<br>
 Ici commence mon désespoir d’écrivain.
-<br>Borges, « L’Aleph », trad. Caillois & Durand, 1967, p. 122.
+<br>Borges, « L’Aleph », trad. Caillois & Durand, 1967, p. 126.
 
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+<!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
-source image : Joan Fontcuberta, *Sémiopolis*, l'Aleph, 1999.
-
-<!-- .element: class="source" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -251,13 +277,16 @@ source image : Dali, *Remorse, or Sphinx Embedded in the Sand*, 1931.
 
 <!-- .element: class="source" -->
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/page_d_accueil_opt-2-edfe3.png" data-background-size="contain"-->
+
+source image : Cécile Portier, *Étant donnée*, 2014.
+
+<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/Etant_Donnee.mov" -->
 
-source image : Cécile Portier, *Étant données*, 2014.
-
-<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Duchamp.jpg" -->
@@ -307,10 +336,6 @@ source image : Clément Valla, _Postcards from Google Earth_.
 ><br>Vilem Flusser, *Philosophie de la photographie*
 
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
-
-source image : Clément Valla, *Postcards from Google Earth*.
-
-<!-- .element: class="source" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
