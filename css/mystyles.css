@@ -324,7 +324,9 @@ body {
     float: right;
     text-align: center;
     position: relative;
-    width: 300px;
+    width: 400px;
+    left: 100px;
+    top: 300px;
 }
 
 p.source {
