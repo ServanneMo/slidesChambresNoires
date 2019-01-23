@@ -73,11 +73,11 @@ source image : Secondo Pia, photographie du Suaire de Turin, 28 mai 1898, 9h30.
 <!-- .slide: class="hover"-->
 
 >Mais mon chagrin voulait une image juste, une image qui fût à la fois justice et justesse : juste une image, mais une image juste. Telle était pour moi la photographie du jardin d’Hiver.
-Pour une fois, la photographie me donnait un <font color="red">**sentiment aussi sûr que le souvenir, tel que l’éprouva Proust, lorsque se baissant un jour pour se déchausser, il aperçut brusquement dans sa mémoire le visage de sa grand-mère véritable, « dont pour la première fois je retrouvais dans un souvenir involontaire et complet la réalité vivante » (Proust, II, 756)**</font>. <br>(Barthes, *La Chambre claire*, p. 109)
+Pour une fois, la photographie me donnait un <font color="red">**sentiment aussi sûr que le souvenir, tel que l’éprouva Proust, lorsque se baissant un jour pour se déchausser, il aperçut brusquement dans sa mémoire le visage de sa grand-mère véritable, « dont pour la première fois je retrouvais dans un souvenir involontaire et complet la réalité vivante » (Proust, II, 756)**</font>. <p>(Barthes, *La Chambre claire*, p. 109)</p>
 
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+<!-- .element: style="font-size:1.5rem; text-align:justify" -->
 
-source image : John Cyr, *Developer trays - Barbara Mensch's (2010)*
+source image : John Cyr, *Barbara Mensch's* (2010)
 
 <!-- .element: class="source" -->
 
@@ -87,11 +87,11 @@ source image : John Cyr, *Developer trays - Barbara Mensch's (2010)*
 <!-- .slide: class="hover"-->
 
 
->(<font color="red">**Je ne puis montrer la Photo du Jardin d’Hiver. Elle n’existe que pour moi**</font>. Pour vous, elle ne serait rien d’autre qu’une photo indifférente, l’une des mille manifestations du « quelconque » ; elle ne peut en rien constituer l’objet visible d’une science ; elle ne peut fonder une objectivité, au sens positif du terme ; tout au plus intéresserait-elle votre studium : époque, vêtements, photogénie ; mais en elle, pour vous, aucune blessure.) <br>(Barthes, *La Chambre claire*, p. 115)
+>(<font color="red">**Je ne puis montrer la Photo du Jardin d’Hiver. Elle n’existe que pour moi**</font>. Pour vous, elle ne serait rien d’autre qu’une photo indifférente, l’une des mille manifestations du « quelconque » ; elle ne peut en rien constituer l’objet visible d’une science ; elle ne peut fonder une objectivité, au sens positif du terme ; tout au plus intéresserait-elle votre studium : époque, vêtements, photogénie ; mais en elle, pour vous, aucune blessure.) <p>(Barthes, *La Chambre claire*, p. 115)</p>
 
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+<!-- .element: style="font-size:1.5rem; text-align:justify" -->
 
-source image : John Cyr, *Developer trays - Eddie Adams (2010)*
+source image : John Cyr, *Eddie Adams* (2010)
 
 <!-- .element: class="source" -->
 
@@ -130,7 +130,7 @@ source image : Aleksandar Hemon, *The Lazarus Project*, 2008.
 <!-- .slide: class="hover"-->
 
 ><font color="red">"**God will take care of the dead. We need to take care of the living**".</font>
-><br>Aleksandar Hemon, *The Lazarus Project*.
+><p>Aleksandar Hemon, *The Lazarus Project*.</p>
 
 <!-- .element: style="font-size:1.8rem; text-align:justify" -->
 
@@ -192,7 +192,9 @@ source image : Atiq Rahimi, <br>*Le retour imaginaire*
 <!-- .slide: data-background-image="img/EnfantSoldat.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->Devant l’appareil, il faut rester immobile, retenir son souffle. La mort en exercice. (Rahimi, 2005 p. 25)
+>Devant l’appareil, il faut rester immobile, retenir son souffle. La mort en exercice. <p>(Rahimi, 2005 p. 25)</p>
+
+<!-- .element: style="font-size:1.8rem; text-align:justify" -->
 
 source image : Atiq Rahimi, <br>*Le retour imaginaire*
 
@@ -231,7 +233,7 @@ source image : Joan Fontcuberta, *Sémiopolis*, l'Aleph, 1999.
 <!-- .slide: class="hover"-->
 
 >...monsieur, comme toujours, est à la cave, en train de révéler des photographies...
-><br>Borges, « L’Aleph », trad. Caillois & Durand, 1967, p. 124.
+><p>Borges, « L’Aleph », trad. Caillois & Durand, 1967, p. 124.</p>
 
 <!-- .element: style="font-size:1.8rem; text-align:justify" -->
 
@@ -242,7 +244,7 @@ source image : Joan Fontcuberta, *Sémiopolis*, l'Aleph, 1999.
 
 >[L'Aleph], ce point de l’espace qui contient tous les points […] le lieu où se trouvent, sans se confondre, tous les lieux de l’univers, vus de tous les angles.
 
-><br>Borges, « L’Aleph », trad. Caillois & Durand, 1967, p. 122.
+><p>Borges, « L’Aleph », trad. Caillois & Durand, 1967, p. 122.</p>
 
 <!-- .element: style="font-size:1.8rem; text-align:justify" -->
 
@@ -254,7 +256,7 @@ source image : Joan Fontcuberta, *Sémiopolis*, l'Aleph, 1999.
 >>Je vis l’Aleph, sous tous ses angles, je vis l’Aleph et sur l’Aleph la terre, je vis mon visage et mes viscères, je vis ton visage, j’eus le vertige et je pleurai, car mes yeux avaient vu cet objet secret et conjectural, dont les hommes usurpent le nom, mais qu’aucun homme n’a regardé : l’inconcevable univers.
 [...]<br>
 Ici commence mon désespoir d’écrivain.
-<br>Borges, « L’Aleph », trad. Caillois & Durand, 1967, p. 126.
+<p>Borges, « L’Aleph », trad. Caillois & Durand, 1967, p. 126.</p>
 
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
@@ -302,10 +304,10 @@ source image : Duchamp, *Étant donnés*, 1946-1966.
 <!-- .slide: data-background-image="img/EtantDonees2.png" -->
 <!-- .slide: class="hover"-->
 
->Nous sommes aujourd’hui très précisément dans cette situation : les données nous font la promesse de pouvoir tout voir, mais on oublierait assez facilement qu’il existe un point aveugle, que tout n’est pas si évident dans cette visibilité triomphante, et que peut-être il est nécessaire de venir éclairer le plein jour d’une autre lumière, poétique, politique, pour briser l’évidence du « tout est donné ».
-<br>Cécile Portier, « Étant donnée : une fable poétique sur le régime de notre identité numérique », 2016.
+>**Nous sommes aujourd’hui très précisément dans cette situation : les données nous font la promesse de pouvoir tout voir, mais on oublierait assez facilement qu’il existe un point aveugle, que tout n’est pas si évident dans cette visibilité triomphante, et que peut-être il est nécessaire de venir éclairer le plein jour d’une autre lumière, poétique, politique, pour briser l’évidence du « tout est donné ».**
+<p> Cécile Portier, « Étant donnée : une fable poétique sur le régime de notre identité numérique », 2016.</p>
 
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+<!-- .element: style="font-size:1.5rem; text-align:justify" -->
 
 source image : Cécile Portier, *Étant données*, 2014.
 
@@ -335,7 +337,7 @@ source image : Clément Valla, _Postcards from Google Earth_.
 
 
 >**La philosophie de la photographie a pour tâche de réfléchir à cette possibilité de la liberté - et par là-même de l'interprétation - dans un monde dominé par les appareils.**
-><br>Vilem Flusser, *Philosophie de la photographie*
+><p>Vilem Flusser, *Philosophie de la photographie*</p>
 
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
@@ -345,8 +347,8 @@ source image : Clément Valla, _Postcards from Google Earth_.
 <!-- .slide: data-background-image="img/8_loeil2320.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->Je ne sais rien des révélations, j’y collabore, j’y travaille dans l’obscurité de l’écriture. Le pouvoir argentique des mots décide dans ce travail au noir qui arrête les formes, les leste de langage, trace des lignes de partage, lignes de litige latentes. Avant d’apprendre que cette image de vigne appartenait au côté de l’envers, celui des mots, je reste longtemps aveugle dans la chambre.
-><br>Anne-Marie Garat, *Chambre Noire*
+>**Je ne sais rien des révélations, j’y collabore, j’y travaille dans l’obscurité de l’écriture. Le pouvoir argentique des mots décide dans ce travail au noir qui arrête les formes, les leste de langage, trace des lignes de partage, lignes de litige latentes. Avant d’apprendre que cette image de vigne appartenait au côté de l’envers, celui des mots, je reste longtemps aveugle dans la chambre.**
+><p>Anne-Marie Garat, *Chambre Noire*</p>
 
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
