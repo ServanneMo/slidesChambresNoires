@@ -54,6 +54,10 @@ source image : John Cyr, *Developer trays - Linda Connor (2011)*
 
 <!-- .slide: data-background-image="img/01-couple-with-female-ghost_1.jpg" data-background-size="contain" -->
 
+source image : William Hope - photographie spritite, vers 1910
+
+<!-- .element: class="source" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -77,10 +81,6 @@ Pour une fois, la photographie me donnait un <font color="red">**sentiment aussi
 
 <!-- .element: style="font-size:1.5rem; text-align:justify" -->
 
-source image : John Cyr, *Barbara Mensch's* (2010)
-
-<!-- .element: class="source" -->
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/EddieAdams.jpg" data-background-size="contain" -->
@@ -90,10 +90,6 @@ source image : John Cyr, *Barbara Mensch's* (2010)
 >(<font color="red">**Je ne puis montrer la Photo du Jardin d’Hiver. Elle n’existe que pour moi**</font>. Pour vous, elle ne serait rien d’autre qu’une photo indifférente, l’une des mille manifestations du « quelconque » ; elle ne peut en rien constituer l’objet visible d’une science ; elle ne peut fonder une objectivité, au sens positif du terme ; tout au plus intéresserait-elle votre studium : époque, vêtements, photogénie ; mais en elle, pour vous, aucune blessure.) <p>(Barthes, *La Chambre claire*, p. 115)</p>
 
 <!-- .element: style="font-size:1.5rem; text-align:justify" -->
-
-source image : John Cyr, *Eddie Adams* (2010)
-
-<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -145,14 +141,6 @@ source image : Aleksandar Hemon, *The Lazarus Project*, capture d'écran site we
 
 ## II. Ça n'a pas été <br>(mais ça aurait pu) : <br>de la remédiation à la rétro-médiation
 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/UdeM.jpg" data-background-size="contain"-->
-
-
-source image : Site institutionnel de l'UdeM.
-
-<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/UdeM1.png" data-background-size="contain"-->
@@ -232,7 +220,7 @@ source image : Joan Fontcuberta, *Sémiopolis*, l'Aleph, 1999.
 <!-- .slide: data-background-image="img/semiopolis.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->...monsieur, comme toujours, est à la cave, en train de révéler des photographies...
+><font color ="red">...**monsieur, comme toujours, est à la cave, en train de révéler des photographies**...</font>
 ><p>Borges, « L’Aleph », trad. Caillois & Durand, 1967, p. 124.</p>
 
 <!-- .element: style="font-size:1.8rem; text-align:justify" -->
@@ -242,7 +230,7 @@ source image : Joan Fontcuberta, *Sémiopolis*, l'Aleph, 1999.
 <!-- .slide: data-background-image="img/semiopolis.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
->[L'Aleph], ce point de l’espace qui contient tous les points […] le lieu où se trouvent, sans se confondre, tous les lieux de l’univers, vus de tous les angles.
+>[L'Aleph], <font color ="red">**ce point de l’espace qui contient tous les points […] le lieu où se trouvent, sans se confondre, tous les lieux de l’univers, vus de tous les angles**.</font>
 
 ><p>Borges, « L’Aleph », trad. Caillois & Durand, 1967, p. 122.</p>
 
@@ -253,9 +241,9 @@ source image : Joan Fontcuberta, *Sémiopolis*, l'Aleph, 1999.
 <!-- .slide: data-background-image="img/semiopolis.jpg" -->
 <!-- .slide: class="hover"-->
 
->>Je vis l’Aleph, sous tous ses angles, je vis l’Aleph et sur l’Aleph la terre, je vis mon visage et mes viscères, je vis ton visage, j’eus le vertige et je pleurai, car mes yeux avaient vu cet objet secret et conjectural, dont les hommes usurpent le nom, mais qu’aucun homme n’a regardé : l’inconcevable univers.
+><font color ="red">**Je vis l’Aleph, sous tous ses angles, je vis l’Aleph et sur l’Aleph la terre, je vis mon visage et mes viscères, je vis ton visage, j’eus le vertige et je pleurai, car mes yeux avaient vu cet objet secret et conjectural, dont les hommes usurpent le nom, mais qu’aucun homme n’a regardé : l’inconcevable univers.
 [...]<br>
-Ici commence mon désespoir d’écrivain.
+Ici commence mon désespoir d’écrivain.**</font>
 <p>Borges, « L’Aleph », trad. Caillois & Durand, 1967, p. 126.</p>
 
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
@@ -284,10 +272,6 @@ source image : Cécile Portier, *Étant donnée*, 2014.
 
 <!-- .element: class="source" -->
 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-video="img/Etant_Donnee1.mp4" -->
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/Etant_Donnee2.mp4" -->
 
@@ -313,17 +297,10 @@ source image : Cécile Portier, *Étant données*, 2014.
 
 <!-- .element: class="source" -->
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/etantDonneMontage.png" -->
-
-source image : Cécile Portier, *Étant données*, 2014.
-
-<!-- .element: class="source" -->
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/postcardfromGE.jpg" -->
 
-## Conclusion. <br> Une herméneutique de la révélation
+## Conclusion <br> Une herméneutique de la révélation
 
 
 source image : Clément Valla, _Postcards from Google Earth_.
